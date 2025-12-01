@@ -1,0 +1,16 @@
+{
+    "name" : "Ruta de Clientes",
+    "short_name" : "Ruta",
+    "description" : "Aplicación PWA para obtener la ruta entre clientes",
+    "start_url" : "/",
+    "theme_color" : "#000",
+    "background_color" : "#fff",
+    "display" : "standalone",
+    "icons" : [
+        {
+            "src" : "./img/icon.png",
+            "type" : "image/png",
+            "sizes" : "256x256"
+        }
+    ]
+}
